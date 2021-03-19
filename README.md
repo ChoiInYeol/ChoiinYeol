@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Choi In-Yeol
 #### 경희대학교 소프트웨어융합학과
+
 개발자보다는 기획자에 가까운 사람
+
 그래도 개발을 더 잘하고 싶은 사람
 
 Skills: Python / C++
