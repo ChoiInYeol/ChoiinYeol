@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+안녕하세요!
+Hello!
+
+저는 경희대학교 18학번 소프트웨어융합학과 최인열입니다.
+
+
 <!--
 **ChoiInYeol/ChoiinYeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
