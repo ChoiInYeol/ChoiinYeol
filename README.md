@@ -1,22 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Choi In-Yeol
+#### 경희대학교 소프트웨어융합학과
+개발자보다는 기획자에 가까운 사람
+그래도 개발을 더 잘하고 싶은 사람
 
-안녕하세요!
-Hello!
+Skills: Python / C++
 
-저는 경희대학교 18학번 소프트웨어융합학과 최인열입니다.
+- 🌱 I’m currently learning AI, Pytorch, TensorFlow 2 
+- 👯 I’m looking to collaborate on SWTube 
 
 
-<!--
-**ChoiInYeol/ChoiinYeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChoiInYeol)  
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiInYeol&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/ChoiInYeol)  
