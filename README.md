@@ -8,7 +8,7 @@
 Skills: Python / C++
 
 - 🌱 I’m currently learning AI, Pytorch, TensorFlow 2 
-- 👯 I’m looking to collaborate on SWTube 
+- 👯 I'm cooperating on SWTube.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChoiInYeol)  
