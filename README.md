@@ -2,16 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=InYeol%20Choi&height=150&fontSize=60&desc=KyungHee%20UNIV.&descAlignY=75&descAlign=60"/>
 </div>
 
-<h3>Choi In-Yeol.</h3>
-<h5> Department of Software Convergence, Kyung Hee University </h5>
-<a href=https://sites.google.com/khu.ac.kr/felab> <h5> KyungHee UNIV. FELAB</a>
+<h2>Choi In-Yeol.</h2>
+<h4> Department of Software Convergence, Kyung Hee University </h4>
+<a href=https://sites.google.com/khu.ac.kr/felab> <h4> KyungHee UNIV. FELAB</a>
 <br><br>
-<h5> Want to be a Quant AI Researcher </h5>
+<h4> Want to be a Quant AI Researcher </h4>
 
 ---
-
-<br>
-
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
     <p>✨ Platforms & Languages ✨</p>
