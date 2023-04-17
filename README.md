@@ -4,8 +4,7 @@
 
 <h2>Choi In-Yeol.</h2>
 <h4> Department of Software Convergence, Kyung Hee University </h4>
-<a href=https://sites.google.com/khu.ac.kr/felab> <h4> KyungHee UNIV. FELAB</a>
-<br><br>
+<a href=https://sites.google.com/khu.ac.kr/felab> <h4> KyungHee UNIV. FELAB</a> </h4>
 <h4> Want to be a Quant AI Researcher </h4>
 
 ---
