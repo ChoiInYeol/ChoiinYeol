@@ -1,9 +1,6 @@
-
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=InYeol Choi&height=150&fontSize=60&desc=KyungHee UNIV.&descAlignY=75&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=InYeol%20Choi&height=150&fontSize=60&desc=KyungHee%20UNIV.&descAlignY=75&descAlign=60"/>
 </div>
-
-
 
 <h3>Choi In-Yeol.</h3>
 <h5> Department of Software Convergence, Kyung Hee University </h5>
