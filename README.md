@@ -45,7 +45,7 @@
 	<a href="mailto:chldlsel@khu.ac.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://khu-felab.notion.site/KHU-Financial-Engineering-Lab-e0feff25640a452597329452509a49a6">
+	<a href="">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
