@@ -61,5 +61,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChoiInYeol&show_icons=true">
 
-![Profile views](https://gpvc.arturio.dev/ChoiInYeol)
 </div>
