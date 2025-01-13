@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=InYeol%20Choi&height=150&fontSize=60&desc=KyungHee%20UNIV.&descAlignY=75&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=InYeol%20Choi&height=150&fontSize=60&desc=Kyung%20Hee%20UNIV.&descAlignY=75&descAlign=60"/>
 </div>
 
 <h2>Choi In-Yeol.</h2>
