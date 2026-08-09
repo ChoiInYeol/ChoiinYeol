@@ -10,13 +10,20 @@ This is where I open-source quant research, ship trading tooling, and occasional
 * 👨‍💻 Read more about my work at [choiinyeol.github.io](https://choiinyeol.github.io)
 * ⚡ Fun fact: I take `numpy.random.seed(42)` very personally
 
+* 🎓 **B.S. in Software Convergence**, Kyung Hee University
+* 🎓 **M.S. in Artificial Intelligence**, Kyung Hee University
+
 ### ✨ About Me
 
-I'm an **ETF Liquidity Provider at Mirae Asset Securities**, where I work on liquidity provision and trading for Korean-listed ETFs.
+I'm an **ETF Liquidity Provider at Mirae Asset Securities**, focusing on Korean-listed ETFs and market making.
 
-Before joining Mirae Asset Securities, I worked as a **Quant AI Researcher at Qraft Technologies**, focusing on the intersection of machine learning and quantitative finance. My research has covered empirical asset pricing, portfolio construction, deep learning, time-series modeling, and alternative data.
+Previously, I worked as a **Quant AI Researcher at Qraft Technologies**, where I focused on the intersection of machine learning and quantitative finance.
 
-Alongside my work in ETF market making, I'm pursuing an M.S. in Artificial Intelligence at **Kyung Hee University**. My interests increasingly sit at the intersection of **market microstructure, systematic trading, ETF mechanics, and quantitative research**.
+I hold a **B.S. in Software Convergence** and an **M.S. in Artificial Intelligence**, both from **Kyung Hee University**. During my graduate studies at **KHU AIMS Lab**, my research covered empirical asset pricing, portfolio optimization, deep learning, time-series modeling, and prediction-market microstructure.
+
+My current interests sit at the intersection of **ETF market making, market microstructure, execution, systematic trading, and quantitative research**.
+
+I believe the most interesting quant problems emerge where **models meet actual market mechanics** — pricing, liquidity, execution, inventory, and risk.
 
 #### My Research & Open-Source Story
 
