@@ -33,8 +33,6 @@ Most of my exploratory work and side projects live as open-source on GitHub. A f
 
 * **[Portfolio-Optimization-Deep-Learning-With-Candlestick-Image](https://github.com/ChoiInYeol/Portfolio-Optimization-Deep-Learning-WIth-Candlestick-Image)** — Mean-variance allocation conditioned on candlestick chart images. Explores whether visual chart features carry exploitable allocation signal beyond standard tabular features.
 
-* **[prediction-market-analysis](https://github.com/ChoiInYeol/prediction-market-analysis)** — A framework for collecting and analyzing **Polymarket** and **Kalshi** market & trade data. Treats event-market flow as a structured alpha signal.
-
 * **[snusmic-quant-terminal](https://github.com/ChoiInYeol/snusmic-quant-terminal)** — A terminal-based quant research workbench.
 
 * **[RuleBase-VS-TimeSeries-Algorithm](https://github.com/ChoiInYeol/RuleBase-VS-TimeSeries-Algorithm)** — Capstone benchmark of rule-based trading vs. deep time-series strategies.
